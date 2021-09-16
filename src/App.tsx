@@ -106,7 +106,7 @@ const App = () => {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Shop
+              Shopping Cart
             </Typography>
             <StyledButton onClick={() => setCartOpen(true)}>
               <Badge badgeContent={getTotalItems(cartItems)} color="primary">
