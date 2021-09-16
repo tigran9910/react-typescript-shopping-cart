@@ -39,7 +39,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/90608993/133671127-29e840c8-c924-4409-b47b-5b33701b182e.PNG)
 
-A simple React & TypeScript Frontend App. You can add items in the shopping cart, choose the right amount and see the prize of all your products in the cart.
+A simple React & TypeScript Frontend App. You can add items to the shopping cart, choose the right amount and see the prize of all your products in the cart.
 
 ### Built With
 
